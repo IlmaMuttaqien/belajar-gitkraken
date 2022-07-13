@@ -2,3 +2,4 @@ Mari belajar menggunakan git kraken
 mengganti commit sebelumnya
 dan menambahkan line ke-3
 Belajar git kraken bersama Codepolitan
+menambahkan line ke-5
