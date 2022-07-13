@@ -1,1 +1,2 @@
 Mari belajar menggunakan git kraken
+melakukan commit yang pertama
