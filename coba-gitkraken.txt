@@ -1,2 +1,3 @@
 Mari belajar menggunakan git kraken
-melakukan commit yang pertama
+mengganti commit sebelumnya
+dan menambahkan line ke-3
